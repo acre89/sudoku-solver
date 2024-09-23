@@ -3,3 +3,4 @@ test.py
 split.py
 main.py
 .gitignore
+**/__pycache__
