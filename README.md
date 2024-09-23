@@ -1,5 +1,5 @@
 # Sudoku Solver Personnal project
-## acre89
+### acre89
 ### Python - Qt - PySide6
 
 ## Description
