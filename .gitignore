@@ -1,6 +1,0 @@
-test.py
-**/venv
-split.py
-main.py
-.gitignore
-**/__pycache__
